@@ -1,0 +1,22 @@
+{
+    "title": "gitbook电子书",
+    "description": "学习",
+    "author": "kechenhh",
+    "language": "zh-hans",
+    "root": ".",
+	 "plugins": [
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [{
+        "user": "kechenhh",
+        "repo": "Python-spiders",
+        "type": "star",
+        "size": "large"
+      }
+
+      ]
+    }
+  }
+}
